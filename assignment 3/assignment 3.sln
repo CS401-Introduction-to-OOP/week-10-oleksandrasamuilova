@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "final-homework-lewis", "final-homework-lewis", "{DF2E7808-CFB9-DBA6-D77C-5D0ECC957C2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FitnessManagerSystem", "FitnessManagerSystem", "{0018628B-77B3-C8AA-D5D3-265D5248B16B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FintessManagerSystem", "final-homework-lewis\FitnessManagerSystem\FintessManagerSystem.csproj", "{2B195DFA-807A-EDDF-F58C-136C60ED198E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B195DFA-807A-EDDF-F58C-136C60ED198E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B195DFA-807A-EDDF-F58C-136C60ED198E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B195DFA-807A-EDDF-F58C-136C60ED198E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B195DFA-807A-EDDF-F58C-136C60ED198E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0018628B-77B3-C8AA-D5D3-265D5248B16B} = {DF2E7808-CFB9-DBA6-D77C-5D0ECC957C2D}
+		{2B195DFA-807A-EDDF-F58C-136C60ED198E} = {0018628B-77B3-C8AA-D5D3-265D5248B16B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4030F828-9605-4FED-A2EB-B4F430FCB608}
+	EndGlobalSection
+EndGlobal
